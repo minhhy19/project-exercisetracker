@@ -14,7 +14,7 @@
 		"mongodb": "^3.6.0",
 		"mongoose": "^6.5.0",
 		"mongoose-auto-increment": "^5.0.1",
-    "moment": "^2.29.4"
+		"moment": "^2.29.4"
 	},
 	"repository": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-project-exercisetracker"
